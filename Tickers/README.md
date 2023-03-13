@@ -1,1 +1,1 @@
-Datasets of ticker symbols with adjusted closing prices collected from NASDAQ.com's stock screener on 09-Mar-23. These sets contain all companies currently listed on the NASDAQ and the NYSE from 01-Jan-12 through 01-Mar-23.
+Here is where you can find the datasets of ticker symbols with adjusted closing prices. These sets contain all companies currently listed on the NASDAQ and the NYSE from 01-Jan-12 through 01-Mar-23. Companies with null values at any time over this range in the raw datasets have been removed.
