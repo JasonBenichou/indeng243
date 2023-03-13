@@ -1,0 +1,1 @@
+Raw datasets comprised of all NASDAQ- and NYSE-listed domestic (US) stocks for all sectors grouped by market cap. Large includes mega-cap (>$200B), and small includes everything $2B and below. Collected 09-Mar-23.
